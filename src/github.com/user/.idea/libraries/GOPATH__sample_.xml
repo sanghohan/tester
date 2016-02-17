@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="GOPATH &lt;sample&gt;">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../.DS_Store" />
+      <root url="file://$PROJECT_DIR$/.." />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <excluded>
+      <root url="file://$PROJECT_DIR$/.idea" />
+      <root url="file://$PROJECT_DIR$" />
+      <root url="file://$PROJECT_DIR$/hello/.git" />
+      <root url="file://$PROJECT_DIR$/../test/.idea" />
+    </excluded>
+  </library>
+</component>

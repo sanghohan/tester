@@ -1,0 +1,21 @@
+<component name="libraryTable">
+  <library name="GOPATH &lt;test&gt;">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../golang.org" />
+      <root url="file://$PROJECT_DIR$/../../.DS_Store" />
+      <root url="file://$PROJECT_DIR$/.." />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <excluded>
+      <root url="file://$PROJECT_DIR$/../user/.idea" />
+      <root url="file://$PROJECT_DIR$/../../golang.org/x/net/.git" />
+      <root url="file://$PROJECT_DIR$/../../golang.org/x/net/html/charset/testdata" />
+      <root url="file://$PROJECT_DIR$/../../golang.org/x/net/html/testdata" />
+      <root url="file://$PROJECT_DIR$/../../golang.org/x/net/http2/testdata" />
+      <root url="file://$PROJECT_DIR$/../user/hello/.git" />
+      <root url="file://$PROJECT_DIR$/.idea" />
+      <root url="file://$PROJECT_DIR$" />
+    </excluded>
+  </library>
+</component>
